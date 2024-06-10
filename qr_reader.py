@@ -92,7 +92,7 @@ cam_btn.place(x=500, y=478)
 exit_btn = Button(frame, image=exits, bg="#121545", bd=0, command=lambda: exit())
 exit_btn.place(x=900, y=477)
 
-about = Label(root, text="Created By Mayank with ❤", font="Verdana 10 bold", bg="#081029", fg="#fff")
+about = Label(root, text="Created By Vedika with ❤", font="Verdana 10 bold", bg="#081029", fg="#fff")
 about.place(x=500, y=665)
 
 root.mainloop()
